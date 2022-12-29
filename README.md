@@ -14,6 +14,7 @@ git clone https://github.com/S4MI-404/T-Bomb
 cd T-Bomb
 
 python T-Bomb.py
+
 .
 .
 This Is A Free Tool 🔥
