@@ -16,7 +16,7 @@ cd T-Bomb
 python T-Bomb.py
 ⠀
 ⠀
-
+⠀
 This Is A Free Tool 🔥
 
 Just Nock Me For User And Pass
