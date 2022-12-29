@@ -4,11 +4,17 @@ It Is A Simple BD Sms Bomber With Very Fast Speed
 Commands👇👇
 
 pkg update -y
+
 pkg install python -y
+
 pkg install git -y
+
 pip install requests
+
 git clone https://github.com/S4MI-404/T-Bomb
+
 cd T-Bomb
+
 python T-Bomb.py
 
 This Is A Free Tool 🔥
