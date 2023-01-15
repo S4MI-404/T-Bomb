@@ -15,7 +15,8 @@ cd T-Bomb
 
 python T-Bomb.py
 
-
+Username : THCB
+password : @S4MI
 This Is A Free Tool 🔥
 
 Just Nock Me For User And Pass
